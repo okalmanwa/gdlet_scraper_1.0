@@ -93,21 +93,6 @@ Both files include these columns:
 | `actor1_name` | Primary actor named in the GDELT event |
 | `actor2_name` | Secondary actor named in the GDELT event |
 
-## Cleaning the Output
-
-After scraping, run `clean_articles.py` to strip boilerplate and noise from `merged_articles.csv`:
-
-```bash
-# Clean in-place (overwrites merged_articles.csv)
-python clean_articles.py
-
-# Write to a separate file
-python clean_articles.py --output results/merged_articles_clean.csv
-
-# Custom minimum word count (default: 20)
-python clean_articles.py --min-words 30
-```
-
 ## Adding New Sources
 
 Edit `domains_left_right_no_paywall.txt` — one source per line:
