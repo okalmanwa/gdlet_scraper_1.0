@@ -1,0 +1,15 @@
+# Left/right (and mod) only. Exclude WSJ, Washington Post, Guardian (paywall).
+# Format: domain,outlet,lean
+# Left
+nytimes.com,NYTimes,left
+nbcnews.com,NBC News,left
+cnn.com,CNN,left
+# Moderate
+reuters.com,Reuters,mod
+thehill.com,The Hill,mod
+bbc.com,BBC,mod
+bbc.co.uk,BBC,mod
+# Right
+foxnews.com,Fox News,right
+nypost.com,NY Post,right
+marketwatch.com,MarketWatch,right
