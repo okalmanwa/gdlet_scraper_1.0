@@ -1,4 +1,4 @@
-# GDELT Scraper Bundle
+# GDELT Scraper Bundle (Can scrape from 2015 onwards)
 
 Self-contained folder to scrape GDELT news articles for any year or range of years.
 Runs on any machine with Python 3.8+.
@@ -28,7 +28,7 @@ On your terminal,
 1.  run: `git clone https://github.com/okalmanwa/gdlet_scraper_1.0.git`
 2. `cd gdelt_scrapper_1.0.git`
 3. To scrape, choose any of the following options:
-# Single year
+# Single year e.g 2020
 bash run.sh --year 2020
 
 # Range of years
