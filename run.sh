@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 # -------------------------------------------------------
 # run.sh  –  Bootstrap and run the GDELT scraper pipeline
 #
