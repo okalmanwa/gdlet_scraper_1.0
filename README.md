@@ -24,6 +24,10 @@ Runs on any machine with Python 3.8+.
 ## Usage
 
 ```bash
+On your terminal,
+1.  run: `git clone https://github.com/okalmanwa/gdlet_scraper_1.0.git`
+2. `cd gdelt_scrapper_1.0.git`
+3. To scrape, choose any of the following options:
 # Single year
 bash run.sh --year 2020
 
