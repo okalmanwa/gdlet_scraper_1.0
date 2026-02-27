@@ -116,7 +116,7 @@ politico.com,Politico,left
 thehill.com,The Hill,mod
 ```
 
-## CAMEO Political Event Codes
+## CAMEO Political Event Codes (http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
 
 When using `--political-only`, only articles linked to CAMEO event code roots 01–17 are collected:
 
