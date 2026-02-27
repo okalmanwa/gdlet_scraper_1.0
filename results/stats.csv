@@ -1,0 +1,15 @@
+year,outlet,lean,event_label,count
+ALL,CNN,left,ALL,1
+ALL,CNN,left,Demand,1
+ALL,NY Post,right,ALL,5
+ALL,NY Post,right,Appeal,1
+ALL,NY Post,right,Express intent to meet/negotiate,1
+ALL,NY Post,right,Make a visit,1
+ALL,NY Post,right,Make statement,2
+2025,CNN,left,ALL,1
+2025,CNN,left,Demand,1
+2025,NY Post,right,ALL,5
+2025,NY Post,right,Appeal,1
+2025,NY Post,right,Express intent to meet/negotiate,1
+2025,NY Post,right,Make a visit,1
+2025,NY Post,right,Make statement,2

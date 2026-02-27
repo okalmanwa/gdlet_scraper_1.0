@@ -163,11 +163,6 @@ def process_period(label, date_from, date_to, year_filter, skip_fetch, max_downl
     with open(ARTICLES_CSV, "r", encoding="utf-8", newline="", errors="replace") as f:
         for row in csv.DictReader(f):
             row_year = (row.get("year") or "").strip()
-            try:
-                if not (year_from <= int(row_year) <= year_to):
-                    continue
-            except ValueError:
-                continue
             title = clean_title((row.get("title") or "").strip())
             outlet = normalize_outlet(row.get("outlet", ""))
             key = (title, row_year, outlet)

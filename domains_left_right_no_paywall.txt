@@ -4,6 +4,7 @@
 nytimes.com,NYTimes,left
 nbcnews.com,NBC News,left
 cnn.com,CNN,left
+
 # Moderate
 reuters.com,Reuters,mod
 thehill.com,The Hill,mod
