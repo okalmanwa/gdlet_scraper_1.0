@@ -1,4 +1,4 @@
-# Left/right (and mod) only. Exclude WSJ, Washington Post, Guardian (paywall).
+# Left/right (and mod) only. Exclude WSJ, Washington Post, Guardian (paywall)/very robust bot detection.
 # Format: domain,outlet,lean
 # Left
 nytimes.com,NYTimes,left
