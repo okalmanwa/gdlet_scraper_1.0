@@ -1,4 +1,5 @@
 # GDELT Scraper Bundle (Can scrape from 2015 onwards)
+## GDELT Terms of use: `https://www.gdeltproject.org/about.html#termsofuse`
 
 Self-contained folder to scrape GDELT news articles for any year or range of years.
 Runs on any machine with Python 3.8+.
