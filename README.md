@@ -9,7 +9,7 @@ Runs on any machine with Python 3.8+.
 | File | Purpose |
 |------|---------|
 | `run.sh` | Entry point — installs deps and runs the pipeline |
-| `run_pipeline.py` | Main pipeline: fetch → collect URLs → scrape → merge → stats |
+| `run_pipeline.py` | Main pipeline: fetch → collect URLs → scrape → clean → merge → stats |
 | `fetch_gdelt.py` | Downloads GDELT export files |
 | `collect_urls_from_gdelt_exports.py` | Extracts article URLs from exports, with political filtering |
 | `scrape_articles.py` | Scrapes article content from URLs |
